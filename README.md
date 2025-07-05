@@ -17,6 +17,9 @@ Welcome to my central repository hub! This README serves as a directory for all 
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+📧 **Email**: [sangamnath.professional@gmail.com](mailto:sangamnath.professional@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/sangamnath-ingalalli](https://linkedin.com/in/sangamnath-ingalalli)  
+💻 **GitHub**: [github.com/SangamnathIngalalli](https://github.com/SangamnathIngalalli)  
+📱 **Mobile**: [+91 8197775778](tel:+918197775778)
 
-Project Link: [https://github.com/yourusername/automation-frameworks-catalog](https://github.com/yourusername/automation-frameworks-catalog)
+Project Link: [https://github.com/SangamnathIngalalli/automation-frameworks-catalog](https://github.com/SangamnathIngalalli/automation-frameworks-catalog)
