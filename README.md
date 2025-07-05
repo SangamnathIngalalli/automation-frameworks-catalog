@@ -6,14 +6,7 @@ Welcome to my central repository hub! This README serves as a directory for all 
 
 | Framework | Description | Repository |
 |-----------|-------------|------------|
-| **Selenium WebDriver** | Browser automation framework for web applications | [selenium-framework](https://github.com/yourusername/selenium-framework) |
-| **Playwright** | Fast and reliable end-to-end testing for modern web apps | [playwright-tests](https://github.com/yourusername/playwright-tests) |
-| **Cypress** | Next generation front end testing tool | [cypress-automation](https://github.com/yourusername/cypress-automation) |
-| **Appium** | Mobile application automation | [appium-mobile-tests](https://github.com/yourusername/appium-mobile-tests) |
-| **Robot Framework** | Generic automation framework | [robot-framework-tests](https://github.com/yourusername/robot-framework-tests) |
-| **Puppeteer** | Node.js library for controlling headless Chrome | [puppeteer-scripts](https://github.com/yourusername/puppeteer-scripts) |
-
-## 🚀 Getting Started
+| **RestAssured with Cucumber** | Robust and scalable API test automation framework built with RestAssured, Cucumber, and JUnit 5 | [RestAssuredCucumber](https://github.com/SangamnathIngalalli/RestAssurredCucmber) |
 
 ## 📌 How to Use
 
