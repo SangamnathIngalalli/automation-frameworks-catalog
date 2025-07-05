@@ -7,47 +7,13 @@ Welcome to my central repository hub! This README serves as a directory for all 
 | Framework | Description | Repository |
 |-----------|-------------|------------|
 | **RestAssured with Cucumber** | Robust and scalable API test automation framework built with RestAssured, Cucumber, and JUnit 5 | [RestAssuredCucumber](https://github.com/SangamnathIngalalli/RestAssurredCucmber) |
-
-## 📌 How to Use
-
-1. Browse through the project categories above
-2. Click on any project to view its details
-3. Follow the project's README for setup and usage instructions
-
-## 🔍 Quick Navigation
-
-| Category           | Description                           |
-|--------------------|---------------------------------------|
-| [Automation](frameworks/) | Testing and automation frameworks     |
-| [Web](web/)       | Web development projects              |
-| [Mobile](mobile/)| Mobile application projects           |
-| [ML](ml/)        | Machine learning projects             |
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/automation-frameworks-catalog.git
-   cd automation-frameworks-catalog
-   ```
-
-2. Navigate to the desired framework directory
-3. Follow the specific setup instructions in each framework's README
+| **Personal Portfolio** | My personal portfolio website showcasing my projects and skills | [Portfolio](https://github.com/SangamnathIngalalli/portfolio) |
+| **ToDo TypeScript** | A beginner-friendly To-Do application built with TypeScript, HTML, and CSS that demonstrates fundamental TypeScript concepts | [ToDo-TypeScript](https://github.com/SangamnathIngalalli/ToDo-TypeScript) |
+| **Playwright TypeScript** | Industry-standard end-to-end testing framework for OpenCart using Playwright and TypeScript, following best practices for test automation | [Playwright-TypeScript](https://github.com/SangamnathIngalalli/Playwright-Typescript) |
+| **Selenium TestNG** | Robust test automation framework for OpenCart e-commerce platform using Selenium WebDriver, TestNG, and Allure reporting | [Selenium-TestNG](https://github.com/SangamnathIngalalli/Selenium-TestNg) |
+| **GraphQL Test Suite** | Professional GraphQL automation testing framework built for testing the SpaceX GraphQL API | [GraphQLTestSuite](https://github.com/SangamnathIngalalli/GraphQLTestSuite) |
 
 
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- All contributors who have helped improve this project
-- Open source communities for their amazing work
 
 ## 📧 Contact
 
